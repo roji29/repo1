@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 96E2-46CE
+
+ Directory of C:\Users\roji.sahoo\Desktop\myGit
+
+03/22/2018  10:59 AM    <DIR>          .
+03/22/2018  10:59 AM    <DIR>          ..
+03/22/2018  10:36 AM               404 index.html
+03/22/2018  10:36 AM               359 test1.txt
+03/22/2018  10:59 AM                 0 test2.txt
+               3 File(s)            763 bytes
+               2 Dir(s)  85,888,139,264 bytes free
